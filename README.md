@@ -8,7 +8,7 @@
   ## Skills
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="c#" height="50" width="50" src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png"/>   
+  <img align="center" alt="c#" height="50" width="50" src="https://img.icons8.com/ios/50/000000/c-sharp-logo.png"/>   
   <img align="center" alt="python" height="50" width="50" src="https://img.icons8.com/ios/50/000000/python--v2.png"/>
   <img align="center" alt="unity" height="50" width="50" src="https://img.icons8.com/ios/50/000000/unity.png"/>
 <!--   <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"> -->
